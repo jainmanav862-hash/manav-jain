@@ -1,0 +1,6 @@
+{
+  "summary":  "Implementation plan to fix the AI out-of-bounds shot bug using an exact ballistic drag solver, upgrade the AI to tactically target open court spaces away from the player, and relocate all shot power cards (Clear, Drop, Drive, Smash) and signature pro skills into vertical left and right margin docks for 100% unobstructed court visibility.",
+  "updatedAt":  "2026-10-23T05:43:43.235595586Z",
+  "requestFeedback":  true,
+  "userFacing":  true
+}

@@ -1,0 +1,6 @@
+{
+  "name": "SmashZone: Pro Badminton 1v1 & 2v2",
+  "description": "Real-time multiplayer badminton arena featuring 1vs1 singles, 2vs2 doubles, live responsive audience, realistic shuttlecock aerodynamics, and competitive match rules.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
